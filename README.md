@@ -17,6 +17,7 @@ feeding it into ML models to give the best accuracy
 Result:
  - Businesses can use sentiment analysis to stay up-to-date about the sentiments around their brand.
 - Using this model, we can get people’s opinions regarding specific topics on social media or social networking sites.
+
  🔧 Technologies used:
 * Python
 * Naive Bayes classifier
